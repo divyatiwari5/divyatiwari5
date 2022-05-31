@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on React based projects
-- 🌱 I’m currently learning about GraphQL, Apollo and hooks in deep
+- 🌱 I’m currently learning about GraphQL, and Apollo
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
